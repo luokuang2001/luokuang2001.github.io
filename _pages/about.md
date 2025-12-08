@@ -32,8 +32,8 @@ Hi there!
 
 
 # 📖 Educations
-- *2022.06 - 2025.09*, 
-- *2018.09 - 2022.06*,
+- *2022.06 - 2025.09*, Master, Sun Yat-sen University.
+- *2018.09 - 2022.06*, Undergraduate, Sun Yat-sen University.
   
 # 💬 Invited Talks
 
