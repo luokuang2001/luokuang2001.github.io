@@ -33,7 +33,7 @@ Hi there!
 
 # 📖 Educations
 - *2022.09 - 2025.06*, Master, Sun Yat-sen University.
-- *2018.09 - 2022.06*, Undergraduate, Sun Yat-sen University.
+- *2018.09 - 2022.06*, Bachelor, Sun Yat-sen University.
   
 # 💬 Invited Talks
 
