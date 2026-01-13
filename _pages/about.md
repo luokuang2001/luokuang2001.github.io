@@ -36,7 +36,7 @@ Hi there!
 - *2018.09 - 2022.06*, B.Eng. in Information Engineering, Sun Yat-sen University.
 
   
-% # 💬 Invited Talks
+# 💬 Invited Talks
 
 
 # 💻 Internships
