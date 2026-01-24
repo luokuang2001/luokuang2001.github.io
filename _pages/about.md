@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi there! 
+I'm a PhD student. My research mainly focuses on Embodied AI, Reinforcement Learning and World Model.
 
 
 
