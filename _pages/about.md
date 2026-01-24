@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-I'm a PhD student. My research mainly focuses on Embodied AI, Reinforcement Learning and World Model.
-
+I'm a joint PhD student at Zhejiang University and the Beijing Institute for General Artificial Intelligence [(BIGAI)](https://www.bigai.ai).
+My research mainly focuses on Embodied AI, Reinforcement Learning and World Model.
+Previously, I received my B.Eng. and M.Eng. degrees from Sun Yat-sen University.
 
 
 # 🔥 News
