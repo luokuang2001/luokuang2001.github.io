@@ -22,10 +22,12 @@ My research mainly focuses on Embodied AI, Reinforcement Learning and World Mode
 Previously, I received my B.Eng. and M.Eng. degrees from Sun Yat-sen University.
 
 
-# 🔥 News
+#### # 🔥 News
 
 
 # 📝 Publications 
+
+
 
 
 # 🎖 Honors and Awards
