@@ -22,8 +22,6 @@ My research mainly focuses on Embodied AI, Reinforcement Learning and World Mode
 Previously, I received my B.Eng. and M.Eng. degrees from Sun Yat-sen University.
 
 
-<!-- # 🔥 News -->
-
 
 # 📝 Publications 
 
@@ -32,7 +30,6 @@ Previously, I received my B.Eng. and M.Eng. degrees from Sun Yat-sen University.
 - **Kuang Luo**, Lu Ou, Ming Zhang, Shaolin Liao, Chuangfeng Zhang. A dictionary learning based unsupervised neural network for single image compressed sensing, ***Image and Vision Computing***, 2024. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S026288562400386X)
 
 
-<!-- # 🎖 Honors and Awards -->
 
 
 # 📖 Educations
@@ -40,7 +37,4 @@ Previously, I received my B.Eng. and M.Eng. degrees from Sun Yat-sen University.
 - *2018.09 - 2022.06*, B.Eng. in Information Engineering, Sun Yat-sen University.
 
   
-<!-- # 💬 Invited Talks -->
 
-
-<!-- # 💻 Internships -->
