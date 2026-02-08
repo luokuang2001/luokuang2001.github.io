@@ -25,15 +25,15 @@ Previously, I received my B.Eng. and M.Eng. degrees from Sun Yat-sen University.
 
 # 📝 Publications 
 
-- Physics-informed neural networks for PDE problems: a comprehensive review  
+- Physics-Informed Neural Networks for PDE Problems: A Comprehensive Review  
   **Kuang Luo**, Jingshang Zhao, Yingping Wang, Jiayao Li, Junjie Wen, Jiong Liang, Henry Soekmadji, Shaolin Liao  
   ***Artificial Intelligence Review***, 2025  
   [Paper](https://link.springer.com/article/10.1007/s10462-025-11322-7)
-- An enhanced hybrid adaptive physics-informed neural network for forward and inverse PDE problems  
+- An Enhanced Hybrid Adaptive Physics-Informed Neural Network for Forward and Inverse PDE Problems  
   **Kuang Luo**, Shaolin Liao, Zhong Guan, Baiquan Liu  
   ***Applied Intelligence***, 2025  
   [Paper](https://link.springer.com/article/10.1007/s10489-024-06195-2)
-- A dictionary learning based unsupervised neural network for single image compressed sensing  
+- A Dictionary Learning-Based Unsupervised Neural Network for Single-Image Compressed Sensing  
   **Kuang Luo**, Lu Ou, Ming Zhang, Shaolin Liao, Chuangfeng Zhang  
   ***Image and Vision Computing***, 2024  
   [Paper](https://www.sciencedirect.com/science/article/abs/pii/S026288562400386X)
