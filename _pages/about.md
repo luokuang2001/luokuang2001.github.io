@@ -27,7 +27,7 @@ Previously, I received my B.Eng. and M.Eng. degrees from Sun Yat-sen University.
 
 - <span style="font-size: 1.1em;">**Physics-Informed Neural Networks for PDE Problems: A Comprehensive Review**</span>
   
-  <span style="font-size: 1em;"**Kuang Luo**, Jingshang Zhao, Yingping Wang, Jiayao Li, Junjie Wen, Jiong Liang, Henry Soekmadji, Shaolin Liao</span>
+  <span style="font-size: 1em;">**Kuang Luo**, Jingshang Zhao, Yingping Wang, Jiayao Li, Junjie Wen, Jiong Liang, Henry Soekmadji, Shaolin Liao</span>
   
   <span style="font-size: 1em;">***Artificial Intelligence Review***, 2025</span>
   
