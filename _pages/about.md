@@ -61,7 +61,7 @@ Previously, I received my B.Eng. and M.Eng. degrees from Sun Yat-sen University 
 
 
 # 📖 Educations
-- *2025.09 - Present*, Ph.D. Student in Artificial Intelligence, Zhejiang University & Beijing Institute for General Artificial Intelligence.
+- *2025.09 - Present*, Ph.D. Student in Artificial Intelligence, Zhejiang University &amp Beijing Institute for General Artificial Intelligence.
 - *2022.09 - 2025.06*, M.Eng. in Information and Communication Engineering, Sun Yat-sen University.
 - *2018.09 - 2022.06*, B.Eng. in Information Engineering, Sun Yat-sen University.
 
